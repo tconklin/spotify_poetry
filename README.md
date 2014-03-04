@@ -1,4 +1,4 @@
-cfb_rankings
-============
+spotify_poetry
+==============
 
-College Football results, rankings, and future simulator
+Creates song lists based on an initial phrase/poem input
